@@ -1,8 +1,10 @@
-# watered-down
+# [Watered Down](http://tripp.tk/watered-down)
 A webgame where you use limited liquids to move blocks downward
 
-Idea:
-Click to drop different liquids
+###Ideas:
+* Click to drop different liquids
+* The screen will flip upside down if you put too much water on one side
 
-One infinite down-scrolling level with power-ups and checkpoints.
-
+#####Gameplay:
+* Infinite down-scrolling level with power-ups and checkpoints that must be unlocked
+* Hand built level packs containing new themes and power-ups
